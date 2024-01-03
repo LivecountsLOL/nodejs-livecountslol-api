@@ -1,0 +1,22 @@
+{
+  "name": "livecountslol",
+  "version": "1.0.0",
+  "description": "Official Node.JS API Wrapper for Livecounts.lol's API.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node examples/test-grab.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LivecountsLOL/nodejs-livecountslol-api.git"
+  },
+  "author": "HEXZD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LivecountsLOL/nodejs-livecountslol-api/issues"
+  },
+  "homepage": "https://github.com/LivecountsLOL/nodejs-livecountslol-api#readme"
+}
