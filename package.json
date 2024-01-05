@@ -1,6 +1,6 @@
 {
   "name": "livecountslol",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Official Node.JS API Wrapper for Livecounts.lol's API.",
   "main": "index.js",
   "directories": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/LivecountsLOL/nodejs-livecountslol-api/issues"
   },
-  "homepage": "https://github.com/LivecountsLOL/nodejs-livecountslol-api#readme"
+  "homepage": "https://github.com/LivecountsLOL/nodejs-livecountslol-api#readme",
+  "dependencies": {
+    "axios": "^1.6.4"
+  }
 }

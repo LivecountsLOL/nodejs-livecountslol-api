@@ -10,7 +10,6 @@ Install livecountslol with npm
 
 ```bash
   npm install livecountslol
-  cd livecountslol
 ```
     
 ## Usage/Examples
@@ -18,7 +17,7 @@ Install livecountslol with npm
 ```javascript
 // Example usage:
 
-const LiveCountsLOL = require('../index.js');
+const LiveCountsLOL = require('livecountslol');
 
 const liveCounts = new LiveCountsLOL();
 
