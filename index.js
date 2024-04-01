@@ -2,7 +2,7 @@ const axios = require('axios');
 
 class LiveCountsLOL {
   constructor(apiBaseUrl) {
-    this.apiBaseUrl = apiBaseUrl || 'https://api-yt-est.livecounts.lol/estimations';
+    this.apiBaseUrl = apiBaseUrl || 'https://livecountsapi.lol/estimations';
   }
 
   async getLiveCounts(channelId) {
